@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+    text-align: center;
+    color:rgb(43, 255, 0);
+    background-color: rgb(255, 255, 255);
+
+}
+header div {
+    width: 400px;
+}
+h1 {
+    color:rgb(43, 255, 0);
+
+}
+h2 {
+    color:palegoldenrod;
+
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
